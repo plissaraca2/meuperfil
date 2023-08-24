@@ -1,7 +1,7 @@
 body {
 	font: 14px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
 	color: #3b3b3b;
-	background-image: url(https://img.freepik.com/fotos-gratis/textura-de-parede-de-estuque-azul-marinho-de-relevo-decorativo-grunge-abstrato-fundo-colorido-aspero-de-angulo-amplo_1258-28311.jpg);
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Ph6XfOOVIEn-MrZEM_0pukVakwPc7LHIsqOlMlcW0Bd7BD4B5t4f7nBfxI7o9UQfxu0&usqp=CAU);
 }
 
 h1,h2 {
@@ -69,6 +69,7 @@ a {
 	float: right;
 	margin-right: 20%;
 	border-radius: 20%;
+	width: 400px;
 }
 
 #footnote {
@@ -83,4 +84,3 @@ a {
 	margin-top: 3px;
 	color: #700;
 }
-
